@@ -1,3 +1,5 @@
 my name is john.
 I am artificial intelligent robot.
 I know what.
+
+stars shine at night.
